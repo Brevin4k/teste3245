@@ -1,0 +1,6 @@
+{
+  "name": "BioLink Estabelecimentos - Criador de Botões & Links Mobile",
+  "description": "Aplicativo web mobile para criar página de links e botões para estabelecimentos, com personalização completa de botões, logotipo, fundos, estilos e gerador de QR Code.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
